@@ -1,5 +1,6 @@
 
 venv
+pvenv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
